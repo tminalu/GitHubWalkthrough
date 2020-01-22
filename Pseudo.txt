@@ -1,11 +1,17 @@
 
 Q#1 
-Prompt user for examScore
+Variable Interger types
+Selection repetition(For loop)
+
+Prompt user for  ten different subject examScore
 Get averageScore
-Calculate averageScore = examScore/10
+Calculate averageScore = (Sum of examScores)/10
 Display averageScore
 
 Q#2
+Variable Integer types 
+Selection Sequence 
+
 Prompt user for rainFall and roof dimensions in inches  
 Get runOff 
 Calculate runOff = (rainFall*roof)/231
